@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+pandas
+numpy
+joblib
+tldextract
+dnspython
+sqlalchemy
+pymysql
+python-dotenv
+pytest
+httpx
